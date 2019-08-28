@@ -1,0 +1,102 @@
+﻿Embayment,Alt Name,Papers,Descriptor,Type 1,Type 2,Size,Margin,Region,Country,Ocean/Water Body,Climate Zone (Koppen),Regional Process Dominance,Geology,P Lat,P Long,Lm,Lb,C
+Akaroa Harbour,,N,Harbour,,,,,,,,,,,,,,,#DIV/0!
+Ambracian Gulf,,Y,Gulf,,,,,,,,,,,,,,,#DIV/0!
+Aotea Harbour,,Y,Harbour,LSE,Tidal,,,,,,,,," 37°58'48.16""S","174°50'54.30""E",704,6804,0.103468548
+Bafa Golu,,Y,Lake,,,,,,,,,,,,,,,#DIV/0!
+Boka Kotorska,,Y,Bay,,,,,,,,,,,,,,,#DIV/0!
+Botany Bay,,Y,Bay,LSE,Ria,Medium,,Oceania,Australia,,Cfb,,," 33°59'27.52""S","151°12'12.48""E",1115,7948,#REF!
+Brest Bay,,Yes,Bay,,,,,,,,,,,,,,,#DIV/0!
+Danzhou Bay,,N,Bay,,,,,,,,,,,,,,,#DIV/0!
+Guanabana Bay,,Y,Bay,,,,,,,,,,,,,,,#DIV/0!
+Gulf of Alkyonides,,NOT CONFINED,Gulf,,,,,,,,,,,,,,,#DIV/0!
+Gulf of Corinth,,TOO BIG,Gulf,,,,,,,,,,,,,,,#DIV/0!
+Gulf of Izmet,,WEIRD SHAPE,Gulf,,,,,,,,,,,,,,,#DIV/0!
+Gulf of Patras,,NO ,Gulf,,,,,,,,,,,,,,,#DIV/0!
+Kaipara Harbour,,Y,Harbour,LSE,Ria,Large,Active,Oceania,New Zealand,,Cfb,Wave (?),Hard," 36°23'14.53""S","174°12'27.57""E",7196,58071,0.123917274
+Karinsko more,,N,,,,,,,,,,,,,,,,#DIV/0!
+Kawhia Harbour,,Yes,Harbour,LSE,Tidal,Medium,Active,Oceania,New Zealand,,Cfb,Wave (?),Soft," 38° 5'45.47""S","174°49'56.60""E",986,12339,0.079909231
+Kolpos Geras,,,Gulf,,,,,,,,,,,,,,,#DIV/0!
+Kolpos Kallonis,,,Gulf,,,,,,,,,,,,,,,#DIV/0!
+Kolpos Kissamou,,,Gulf,,,,,,,,,,,,,,,#DIV/0!
+Lake Skadar,,y,Lake,,,,,,,,,,,,,,,#DIV/0!
+Lyttleton Harbour,,,Harbour,,,,,,,,,,,,,,,#DIV/0!
+Manila Bay,,,Bay,,,,,,,,,,,,,,,#DIV/0!
+Manukau Harbour,,,Harbour,LSE,Ria,Large,Active,Oceania,New Zealand,,Cfb,Wave (?),Hard," 37° 1'20.72""S","174°41'19.42""E",1923,23754,0.080954787
+Megara Basin,,,Basin,,,,,,,,,,,,,,,#DIV/0!
+Morbihan Bay,,Yes,Bay,,,,,,,,,,,,,,,#DIV/0!
+Omura Bay,,,Bay,,,,,,,,,,,,,,,#DIV/0!
+Pagasetic Gulf,,,Gulf,,,,,,,,,,,,,,,#DIV/0!
+Panguil Bay,,,Bay,,,,,,,,,,,,,,,#DIV/0!
+Port Phillip Bay,,y,Bay,LSE,,Large,Passive,Oceania,Australia,Tasman Sea,Cfb,,Hard," 38° 5'45.53""S","144°59'23.79""E",3472,51901,0.066896592
+Pujada Bay,,,Bay,,,,,,,,,,,,,,,#DIV/0!
+Raglan Harbour,,Yes,Harbour,LSE,Tidal,Medium,Active,Oceania,New Zealand,,Cfb,,Hard," 37°47'37.70""S","174°54'33.79""E",612,6946,0.088108264
+San Francisco Bay,,y,Bay,LSE,Ria,Large,Active,North America,United States of America,,Csc,Wave,Hard," 37°50'41.11""N","122°22'32.42""W",1688,83811,0.020140554
+Sarangani Bay,,,Bay,,,,,,,,,,,,,,,#DIV/0!
+Sorsogon Bay,,,Bay,,,,,,,,,,,,,,,#DIV/0!
+Subic Bay,,y,Bay,,,,,,,,,,,,,,,#DIV/0!
+Tokyo Bay,,Y,Bay,,,,,,,,,,,,,,,#DIV/0!
+Wellington Harbour,,y,Harbour,LSE,,Large,Active,Oceania,New Zealand,,Cfb,Wave (?),Hard," 41°15'16.86""S","174°51'44.42""E",2693,11533,0.233503858
+Western Port Bay,,y,Bay,LSE,,Large,Passive,Oceania,Australia,Tasman Sea,Cfb,Wave,Hard," 38°23'22.29""S","145°19'30.08""E",7690,23135,0.332396801
+Whangaroa Harbour,,y,Harbour,,,,,,,,,,," 35° 1'47.43""S","173°44'59.17""E",290,3794,0.076436479
+Whanganui Inlet,,y,Inlet,LSE,Tidal,Large,Active,Oceania,New Zealand,,Cfb,Wave (?),Hard," 40°35'49.03""S","172°33'41.85""E",1129,12255,0.092125663
+,,,,,,,,,,,,,,,,,,#DIV/0!
+Corner Inlet,,,Inlet,LSE,TDL,Large,Passive,Oceania,Australia,Tasman Sea,Cfb,Wave,," 38°46'24.41""S","146°20'17.37""E",2122,25119,0.084477885
+Disaster Bay,,,Bay,OPN,,,Passive,Oceania,Australia,,Cfb,Wave,," 37°16'32.25""S","149°58'51.19""E",7072,6226,1.135881786
+East Boyd Bay,,,Bay,OPN,RIA,,Passive,Oceania,Australia,,Cfb,Wave,," 37° 4'57.69""S","149°55'50.26""E",5092,6679,0.762389579
+Merrimbula Bay,,,Bay,,,,Passive,Oceania,Australia,,Cfb,Wave,,,,4392,5826,0.753861998
+Batemans Bay,,,Bay,TDL,RIA,,Passive,Oceania,Australia,,Cfb,Wave,," 35°44'19.21""S","150°14'10.88""E",6166,6325,0.97486166
+Jervis Bay,,,Bay,LSE,BAR EST.,Large,Passive,Oceania,Australia,,Cfb,Wave,," 35° 4'28.84""S","150°44'51.56""E",3551,16171,0.219590625
+Lake Illawarra ,,,Lake,BAR EST.,COAST. PLAIN,Medium,Passive,Oceania,Australia,,Cfb,Wave,," 34°31'21.44""S","150°50'18.66""E",414,8609,0.048089209
+Sydney Harbour,,,Harbour,Ria,,Large,Passive,Oceania,Australia,,Cfb,Wave,," 33°49'41.27""S","151°16'47.58""E",1472,9023,0.163138646
+Broken Bay,,,Bay,Ria,Bar Est.,Large,Passive,Oceania,Australia,,Cfb,Wave,," 33°33'59.76""S","151°19'13.97""E",3760,14516,0.259024525
+Lake Macquarie,,,Lake,Ria,Bar Est. ,Large,Passive,Oceania,Australia,,Cfb,Wave,," 33° 5'36.58""S","151°36'14.48""E",444,14146,0.031386965
+Shoalwater Bay,,,Bay,Macrotidal,Estuary,Large,Passive,Oceania,Australia,,Cfa,Tide,," 22°26'19.99""S","150°26'50.31""E",27876,14032,1.986602052
+Broad Sound,,,Sound,Macrotidal,Estuary,Large,Passive,Oceania,Australia,,Cwa,Tide,," 22°21'52.17""S","149°51'40.40""E",28104,10771,2.609228484
+Cleveland Bay,,,Bay,Open,,Large,Passive,Oceania,Australia,,Aw,Tide,," 19°13'33.09""S","146°53'0.59""E",24983,21382,1.168412684
+Halifax Bay,,,Bay,Open,,Massive,Passive,Oceania,Australia,,Aw,Tide,," 18°56'42.98""S","146°28'43.37""E",75243,52692,1.427977682
+Princess Charlotte Bay,,,Bay,Open,,Massive,Passive,Oceania,Australia,,Aw,Tide,," 14°19'6.29""S","143°57'36.30""E",50283,48317,1.040689612
+Blue Mud Bay,,,Bay,Open,LSE,Large,Passive,Oceania,Australia,,Aw,Tide,," 13°25'10.48""S","136° 5'36.98""E",45938,89765,0.51175848
+Arnhem Bay,,,Bay,Open,LSE,Large,Passive,Oceania,Australia,,Aw,Tide,," 12°16'43.63""S","136° 9'17.47""E",14181,45471,0.311869103
+Shark Bay,,,Bay,,,Large,Passive,Oceania,Australia,,BWh,Tide,," 25°58'21.62""S","114° 0'15.02""E",39962,47989,0.832732501
+Exmouth Gulf,,,Gulf,,,Large,Passive,Oceania,Australia,,BWh,Tide,," 22° 9'47.69""S","114°17'12.92""E",47413,38438,1.233492898
+Cambridge Gulf,,,Gulf,Macrotidal,Inlet,Large,Passive,Oceania,Australia,,BWh,Tide,," 14°52'3.49""S","128°14'39.82""E",18212,21209,0.858692065
+St George Basin,,,Basin,LSE,Macrotidal,Large,Passive,Oceania,Australia,,BWh,Tide,," 15°24'37.84""S","125° 1'7.34""E",1904,17072,0.111527648
+King Sound,,,Sound,Macrotidal,LSE,Large,Passive,Oceania,Australia,,BWh,Tide,," 16°50'23.69""S","123°30'44.27""E",38397,56835,0.675587226
+Spencer Gulf,,,Gulf,Macrotidal,,Large,Passive,Oceania,Australia,,Csb,Wave,," 34°19'7.37""S","137° 1'6.37""E",80096,85736,0.934216665
+Saint Vincent Gulf,,,Gulf,Macrotidal,,Large,Passive,Oceania,Australia,,Csb,Wave,," 35° 2'34.08""S","138° 4'23.26""E",58870,56996,1.0328795
+,,,,,,,,,,,,,,,,,,
+Parengarenga Harbour,,,Harbour,Tidal Inlet,Bar Est.,Medium,Active ,Oceania ,New Zealand,,Cfb,Wave (?),," 34°31'18.43""S","172°56'29.45""E",858,3159,0.271604938
+Rangaunu Harbour,,,Harbour,Tidal Inlet,,Medium,Active ,Oceania ,New Zealand,,Cfb,Wave (?),," 34°56'7.84""S","173°17'33.69""E",1541,9410,0.163761955
+Doubtless Bay,,,Bay,Open,,Large,Active ,Oceania ,New Zealand,,Cfb,Wave (?),," 34°55'29.45""S","173°26'47.79""E",10825,17717,0.610995089
+Wainui Bay,,,Bay,Open,,Medium,Active ,Oceania ,New Zealand,,Cfb,Wave (?),," 35° 0'27.55""S","173°52'6.52""E",3549,4387,0.80898108
+Takou Bay,,,Bay,Open,,Large,Active ,Oceania ,New Zealand,,Cfb,Wave (?),," 35° 5'29.04""S","173°57'18.45""E",8375,8632,0.970227062
+Hawke Bay,,,Bay,Open,,Massive,Active ,Oceania ,New Zealand,,Cfb,Wave (?),," 39°18'40.27""S","177°19'31.28""E",78312,97958,0.79944466
+Mangonui Inlet,,,Inlet,Ria,LSE,Medium,Active ,Oceania ,New Zealand,,Cfb,Wave (?),," 35°10'5.66""S","174° 1'29.49""E",1019,3493,0.29172631
+Kerikeri Inlet,,,Inlet,Ria,LSE,Medium,Active ,Oceania ,New Zealand,,Cfb,Wave (?),," 35°12'5.92""S","174° 0'33.62""E",1261,2605,0.484069098
+Waikare Inlet,,,Inlet,Tidal Inlet,LSE,Large,Active ,Oceania ,New Zealand,,Cfb,Wave (?),," 35°18'46.64""S","174° 7'52.66""E",482,6437,0.074879602
+Waitamata Harbour,,,Harbour,LSE,,Large,Active ,Oceania ,New Zealand,,Cfb,Wave (?),," 36°49'59.27""S","174°41'28.44""E",1775,8093,0.219325343
+Frith of Thames,,,Frith,LSE,Open,Large,Active ,Oceania ,New Zealand,,Cfb,Wave (?),," 37° 7'5.52""S","175°25'3.07""E",16516,21660,0.762511542
+Tauranga Harbour,,,Harbour,LSE,Bar Est.,Large,Active ,Oceania ,New Zealand,,Cfb,Wave (?),," 37°35'36.91""S","176° 0'4.67""E",1257,14628,0.085931091
+Pegasus Bay,,,Bay,Open,,Massive,Active ,Oceania ,New Zealand,,Cfb,Wave (?),," 43°20'34.84""S","172°52'4.22""E",65163,57563,1.132029255
+Golden Bay ,,,Bay,,,Large,Active ,Oceania ,New Zealand,,Cfb,Wave (?),," 40°42'57.26""S","172°50'6.64""E",34481,34214,1.007803823
+Tasman Bay,,,Bay,,,Large,Active ,Oceania ,New Zealand,,Cfb,Wave (?),," 41° 9'0.95""S","173°10'28.98""E",35691,27603,1.293011629
+Paterson Inlet,,,Inlet,LSE,,Large,Active,Oceania,New Zealand,,Cfb,Wave (?),," 46°55'53.55""S","168° 5'18.60""E",1529,6222,0.245740919
+Awarua Bay,,,Bay,Tidal Inlet,Bar Est.,Medium,Active,Oceania,New Zealand,,Cfb,Wave (?),," 46°34'7.50""S","168°20'18.14""E",666,5575,0.119461883
+Tewaenae Bay,,,Bay,Open,,Massive,Active ,Oceania,New Zealand,,Cfb,Wave (?),," 46°13'50.90""S","167°32'0.15""E",26762,30936,0.865076287
+,,,,,,,,,,,,,,,,,,#DIV/0!
+Yakutat Bay,,,Bay,Fjord,Macrotidal,,Active ,North America,United States of America,,Dfc,Wave (?),," 59°41'34.49""N","139°51'43.98""W",28042,26862,1.043928226
+Grays Harbour,,,Harbour,Barrier Estuary,,,Active ,North America,United States of America,,Cfb,Wave,," 46°56'8.80""N","124° 3'9.33""W",3380,20147,0.167766913
+Willapa Bay,,,Bay,Barrier Estuary,,,Active ,North America,United States of America,,Cfb,Wave,," 46°34'7.17""N","123°58'59.52""W",6984,40235,0.173580216
+Columbia River Estuary,,,Estuary,Barrier Estuary,Ria,,Active ,North America,United States of America,,Cfb,Wave,," 46°12'57.47""N","123°50'37.45""W",5263,12263,0.4291772
+Monterey Bay,,,Bay,Open,,,Active ,North America,United States of America,,Csc,Wave,," 36°45'0.13""N","121°54'12.26""W",35177,42076,0.836034794
+Estero Bay,,,Bay,Open,,,Active ,North America,United States of America,,Csc,Wave,," 35°22'42.30""N","120°53'12.26""W",18248,15595,1.170118628
+Santa Monica Bay,,,Bay,Open,,,Active ,North America,United States of America,,Csc,Wave,," 33°55'18.82""N","118°34'22.60""W",43216,43232,0.999629904
+San Pedro Bay,,,Bay,Open,,,Active ,North America,United States of America,,Csc,Wave,," 33°42'27.58""N","118° 8'52.69""W",25742,18590,1.384722969
+San Diego Bay,,,Bay,Barrier Estuary,,,Active ,North America,United States of America,,Bsk,Wave,," 32°40'31.64""N","117° 8'39.01""W",1422,17172,0.082809224
+All Saints Bay,Bahio Todos Santos,,Bay,Open,Barrier Estuary,,Active ,North America,Mexico,,Bsk,Wave,," 31°47'4.40""N","116°40'34.29""W",14080,15919,0.884477668
+Ojo de Libre Lagoon,,,Lagoon,Barrier Estuary,,,Active ,North America,Mexico,,BWh,Wave,," 27°45'8.47""N","114°11'42.58""W",3694,23733,0.155648253
+Saint Ignacio Lagoon,Laguna San Ignacio,,Lagoon,Barrier Estuary,Tidal Inlet,,Active ,North America,Mexico,,BWh,Wave,," 26°49'38.15""N","113°12'24.81""W",3848,6794,0.566382102
+Conception Bay,Bahi Concepcion,,Bay,LSE,,,Active ,North America,Mexico,,BWh,Tide (?),," 26°41'7.09""N","111°49'10.58""W",3860,9676,0.398925176
+Banderas Bay,Bahia de Baderas,,Bay,Open,,,Active ,North America,Mexico,,Aw,Wave,," 20°36'54.40""N","105°24'54.79""W",29266,27785,1.053302141
+Gulf of Fonseca,Golfo de Fonseca,,Gulf,Open,Tidal Inlet,,Active ,Central America,Honduras,,Am,Mixed (?),," 13° 8'41.84""N"," 87°38'59.19""W",32011,71729,0.446276959
+Gulf of Nicoya,Golfo Nicoya,,Gulf,Macrotidal,,,Active ,Central America,Costa Rica,,Af,Mixed (?),,"  9°53'15.63""N"," 84°49'23.76""W",30602,18906,1.618639585
