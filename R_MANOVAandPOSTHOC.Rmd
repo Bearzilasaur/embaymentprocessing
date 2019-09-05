@@ -1,0 +1,90 @@
+---
+title: "Embayment MANOVA"
+output: html_notebook
+---
+This is to perform a MANOVA on the cleaned and log transformed data from the output of the embayment analysis.
+The imported dataset should only contain the columns ('Embayment', 'Type 1', 'Lm', 'Lb' , 'C').
+The last three of which should be normally distributed (after log transform in this case).
+First we will import the data.
+
+```{r}
+library('readr')
+library('dplyr')
+setwd('/Users/tinabaum/Documents/Projects/Python/EmbaymentProcessing/')
+df <- readr::read_csv('./DataOutput/LogTidyData.csv')
+names(df)[names(df) == 'Type 1'] = 'EmbClass'
+summary(df)
+```
+
+
+Next we will plot the qqplots to make sure data is normally distributed.
+
+```{r}
+qqnorm(df$Lm)
+qqline(df$Lm, col = 'steelblue', lwd=2)
+```
+```{r}
+qqnorm(df$Lb)
+qqline(df$Lb, col = 'steelblue', lwd=2)
+```
+
+```{r}
+qqnorm(df$C)
+qqline(df$C, col = 'steelblue', lwd=2)
+```
+
+Once we have established that the data is roughly normally distributed we can conduct the MANOVA and post hoc tests.
+
+```{r}
+df.maov <- manova(cbind(Lm, Lb) ~ EmbClass, data = df)
+summary(df.maov)
+```
+```{r}
+summary.aov(df.maov)
+```
+
+Now that we know that they are both significant we can do one-way ANOVAS and post-hoc tests.
+```{r}
+Lm.lm <- lm(df$Lm ~ df$EmbClass, data = df)
+Lm.aov<- aov(Lm.lm)
+summary(Lm.aov)
+```
+```{r}
+Lm.hsd<- TukeyHSD(Lm.aov)
+Lm.hsd
+```
+
+and for Lb:
+```{r}
+Lb.lm <- lm(df$Lb ~ df$EmbClass, data = df)
+Lb.aov <- aov(Lb.lm)
+summary.aov(Lb.aov)
+```
+
+```{r}
+Lb.hsd <- TukeyHSD(Lb.aov)
+Lb.hsd
+```
+
+And we will finally perform the same analysis using C ratio
+
+```{r}
+C.lm <- lm(df$C ~ df$EmbClass)
+C.aov<- aov(C.lm)
+summary.aov(C.aov)
+```
+It is significant so:
+```{r}
+C.hsd<-TukeyHSD(C.aov)
+C.hsd
+```
+
+Now we can save the HSD Outputs to a specific folder (EmbaymentProcessing/DataOutpu/R_Data):
+
+
+```{r}
+write.csv(Lm.hsd$`df$EmbClass`, '/Users/tinabaum/Documents/Projects/Python/EmbaymentProcessing/DataOutput/R_Data/Lm_HSD.csv')
+write.csv(Lb.hsd$`df$EmbClass`, '/Users/tinabaum/Documents/Projects/Python/EmbaymentProcessing/DataOutput/R_Data/Lb_HSD.csv')
+write.csv(C.hsd$`df$EmbClass`, '/Users/tinabaum/Documents/Projects/Python/EmbaymentProcessing/DataOutput/R_Data/C_HSD.csv')
+```
+
