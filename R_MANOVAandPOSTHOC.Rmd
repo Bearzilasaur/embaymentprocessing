@@ -11,32 +11,36 @@ First we will import the data.
 library('readr')
 library('dplyr')
 setwd('/Users/tinabaum/Documents/Projects/Python/EmbaymentProcessing/')
-df <- readr::read_csv('./DataOutput/LogTidyData.csv')
+df <- read_csv('./DataOutput/LogTidyData.csv')
 names(df)[names(df) == 'Type 1'] = 'EmbClass'
 summary(df)
+```
+
+```{r}
+tapply(df$C, df$EmbClass, summary)
 ```
 
 
 Next we will plot the qqplots to make sure data is normally distributed.
 
 ```{r}
-qqnorm(df$Lm)
-qqline(df$Lm, col = 'steelblue', lwd=2)
+qqnorm(df$LmLog)
+qqline(df$LmLog, col = 'steelblue', lwd=2)
 ```
 ```{r}
-qqnorm(df$Lb)
-qqline(df$Lb, col = 'steelblue', lwd=2)
+qqnorm(df$LbLog)
+qqline(df$LbLog, col = 'steelblue', lwd=2)
 ```
 
 ```{r}
-qqnorm(df$C)
-qqline(df$C, col = 'steelblue', lwd=2)
+qqnorm(df$CLog)
+qqline(df$CLog, col = 'steelblue', lwd=2)
 ```
 
 Once we have established that the data is roughly normally distributed we can conduct the MANOVA and post hoc tests.
 
 ```{r}
-df.maov <- manova(cbind(Lm, Lb) ~ EmbClass, data = df)
+df.maov <- manova(cbind(LmLog, LbLog) ~ EmbClass, data = df)
 summary(df.maov)
 ```
 ```{r}
@@ -45,38 +49,38 @@ summary.aov(df.maov)
 
 Now that we know that they are both significant we can do one-way ANOVAS and post-hoc tests.
 ```{r}
-Lm.lm <- lm(df$Lm ~ df$EmbClass, data = df)
-Lm.aov<- aov(Lm.lm)
-summary(Lm.aov)
+LmLog.lm <- lm(df$LmLog ~ df$EmbClass, data = df)
+LmLog.aov<- aov(LmLog.lm)
+summary(LmLog.aov)
 ```
 ```{r}
-Lm.hsd<- TukeyHSD(Lm.aov)
-Lm.hsd
+LmLog.hsd<- TukeyHSD(LmLog.aov)
+LmLog.hsd
 ```
 
 and for Lb:
 ```{r}
-Lb.lm <- lm(df$Lb ~ df$EmbClass, data = df)
-Lb.aov <- aov(Lb.lm)
-summary.aov(Lb.aov)
+LbLog.lm <- lm(df$LbLog ~ df$EmbClass, data = df)
+LbLog.aov <- aov(LbLog.lm)
+summary.aov(LbLog.aov)
 ```
 
 ```{r}
-Lb.hsd <- TukeyHSD(Lb.aov)
-Lb.hsd
+LbLog.hsd <- TukeyHSD(LbLog.aov)
+LbLog.hsd
 ```
 
 And we will finally perform the same analysis using C ratio
 
 ```{r}
-C.lm <- lm(df$C ~ df$EmbClass)
-C.aov<- aov(C.lm)
-summary.aov(C.aov)
+CLog.lm <- lm(df$CLog ~ df$EmbClass)
+CLog.aov<- aov(CLog.lm)
+summary.aov(CLog.aov)
 ```
 It is significant so:
 ```{r}
-C.hsd<-TukeyHSD(C.aov)
-C.hsd
+CLog.hsd<-TukeyHSD(CLog.aov)
+CLog.hsd
 ```
 
 Now we can save the HSD Outputs to a specific folder (EmbaymentProcessing/DataOutpu/R_Data):
