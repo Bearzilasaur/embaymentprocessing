@@ -1,0 +1,110 @@
+﻿Embayment,Descriptor,Type 1,Type 2,P Lat,P Long,Lm,Lb,C
+Tamiahua Lagoon,Lagoon,Barrier Estuary,Lagoon," 21°34'46.90""N"," 97°32'50.12""W",135,20346,0.006635211
+Lagoon of Caratasca,Lagoon,Barrier Estuary,," 15°21'21.71""N"," 83°50'7.78""W",562,50805,0.011061903
+Lake Illawarra ,Lake,Barrier Estuary,COAST. PLAIN," 34°31'21.44""S","150°50'18.66""E",414,8609,0.048089209
+Pensacola Bay,Bay,Barrier Estuary,," 30°25'53.17""N"," 87° 7'0.43""W",1613,31981,0.050436196
+San Diego Bay,Bay,Barrier Estuary,," 32°40'31.64""N","117° 8'39.01""W",1422,17172,0.082809224
+Términos Lagoon,Lagoon,Barrier Estuary,Lagoon," 18°36'39.02""N"," 91°35'17.79""W",6660,72785,0.09150237
+Ojo de Libre Lagoon,Lagoon,Barrier Estuary,," 27°45'8.47""N","114°11'42.58""W",3694,23733,0.155648253
+Grays Harbour,Harbour,Barrier Estuary,," 46°56'8.80""N","124° 3'9.33""W",3380,20147,0.167766913
+Willapa Bay,Bay,Barrier Estuary,," 46°34'7.17""N","123°58'59.52""W",6984,40235,0.173580216
+Galveston Bay,Bay,Barrier Estuary,," 29°35'6.36""N"," 94°52'6.44""W",8371,38319,0.218455596
+Tampa Bay,Bay,Barrier Estuary,," 27°46'38.84""N"," 82°33'30.61""W",10781,34000,0.317088235
+Columbia River Estuary,Estuary,Barrier Estuary,Ria," 46°12'57.47""N","123°50'37.45""W",5263,12263,0.4291772
+Abermarle Sound,Sound,Barrier Estuary,Macrotidal,,,12205,23019,0.530214171
+Saint Ignacio Lagoon,Lagoon,Barrier Estuary,Tidal Inlet," 26°49'38.15""N","113°12'24.81""W",3848,6794,0.566382102
+Mobile Bay,Bay,Barrier Estuary,Macrotidal,,,15797,18390,0.858999456
+Gulf of Dulce,Gulf,Coastal Plain,,"  8°33'53.24""N"," 83°14'0.05""W",14581,27877,0.523047674
+Reloncavi Sound,Sound,Fjord,LSE," 41°42'29.04""S"," 72°51'14.51""W",11034,39311,0.280684796
+Yakutat Bay,Bay,Fjord,Macrotidal," 59°41'34.49""N","139°51'43.98""W",28042,26862,1.043928226
+San Francisco Bay,Bay,LSE,Ria," 37°50'41.11""N","122°22'32.42""W",1688,83811,0.020140554
+Lake Maracaibo,Lake,LSE,Barrier Estuary,"  9°59'53.60""N"," 71°36'41.84""W",7043,120752,0.058326156
+Guanabara Bay,Bay,LSE,," 22°47'33.69""S"," 43° 8'23.09""W",1690,26707,0.06327929
+Port Phillip Bay,Bay,LSE,," 38° 5'45.53""S","144°59'23.79""E",3472,51901,0.066896592
+Waikare Inlet,Inlet,LSE,LSE," 35°18'46.64""S","174° 7'52.66""E",482,6437,0.074879602
+Kawhia Harbour,Harbour,LSE,Tidal," 38° 5'45.47""S","174°49'56.60""E",986,12339,0.079909231
+Manukau Harbour,Harbour,LSE,Ria," 37° 1'20.72""S","174°41'19.42""E",1923,23754,0.080954787
+Corner Inlet,Inlet,LSE,TDL," 38°46'24.41""S","146°20'17.37""E",2122,25119,0.084477885
+Tauranga Harbour,Harbour,LSE,Bar Est.," 37°35'36.91""S","176° 0'4.67""E",1257,14628,0.085931091
+Raglan Harbour,Harbour,LSE,Tidal," 37°47'37.70""S","174°54'33.79""E",612,6946,0.088108264
+Whanganui Inlet,Inlet,LSE,Tidal," 40°35'49.03""S","172°33'41.85""E",1129,12255,0.092125663
+Aotea Harbour,Harbour,LSE,Tidal," 37°58'48.16""S","174°50'54.30""E",704,6804,0.103468548
+St George Basin,Basin,LSE,Macrotidal," 15°24'37.84""S","125° 1'7.34""E",1904,17072,0.111527648
+Awarua Bay,Bay,LSE,Bar Est.," 46°34'7.50""S","168°20'18.14""E",666,5575,0.119461883
+Bahia de Muertos,Bay,LSE,,"  8°16'7.45""N"," 82°15'34.02""W",1281,10471,0.122337886
+Kaipara Harbour,Harbour,LSE,Ria," 36°23'14.53""S","174°12'27.57""E",7196,58071,0.123917274
+Passamaquoddy Bay,Bay,LSE,Ria," 45° 3'40.59""N"," 66°59'4.10""W",2781,18911,0.147057268
+Minas Basin,Basin,LSE,Macrotidal," 45°18'37.58""N"," 64°10'4.94""W",4719,30900,0.152718447
+Rangaunu Harbour,Harbour,LSE,Tidal Inlet," 34°56'7.84""S","173°17'33.69""E",1541,9410,0.163761955
+San Jose Bay,Bay,LSE,," 18°27'25.20""N"," 88° 8'35.54""W",12688,65324,0.194231829
+Waitamata Harbour,Harbour,LSE,," 36°49'59.27""S","174°41'28.44""E",1775,8093,0.219325343
+Jervis Bay,Bay,LSE,BAR EST.," 35° 4'28.84""S","150°44'51.56""E",3551,16171,0.219590625
+Cobscook Bay,Bay,LSE,Ria," 44°53'52.16""N"," 67° 5'18.86""W",3330,14559,0.2287245
+Wellington Harbour,Harbour,LSE,," 41°15'16.86""S","174°51'44.42""E",2693,11533,0.233503858
+New Gulf,Gulf,LSE,," 42°43'15.41""S"," 64°31'37.54""W",16370,67664,0.241930716
+Paterson Inlet,Inlet,LSE,," 46°55'53.55""S","168° 5'18.60""E",1529,6222,0.245740919
+All Saints Bay,Bay,LSE,," 12°52'41.22""S"," 38°34'25.64""W",9205,34902,0.263738468
+Western Port Bay,Bay,LSE,," 38°23'22.29""S","145°19'30.08""E",7690,23135,0.332396801
+Conception Bay,Bay,LSE,," 26°41'7.09""N","111°49'10.58""W",3860,9676,0.398925176
+Botany Bay,Bay,LSE,Ria," 33°59'27.52""S","151°12'12.48""E",1115,7948,#REF!
+San Jose Gulf,Gulf,LSE,," 42°18'54.69""S"," 64°19'23.02""W",7098,48613,0.146010326
+Cariaco Gulf,Gulf,LSE,," 10°30'51.44""N"," 64° 0'46.26""W",5634,14027,0.401653953
+Delaware Bay,Bay,Macrotidal,," 39° 3'42.62""N"," 75°11'2.94""W",18734,47147,0.39735296
+Bay of São Marcos,Bay,Macrotidal,,"  2°36'42.44""S"," 44°27'57.05""W",12822,24959,0.513722505
+North Bay,Bay,Macrotidal,Tidal Inlet,"  8°20'29.19""N"," 78°17'35.05""W",12785,24255,0.527107813
+Chignecto Bay,Bay,Macrotidal,," 45°39'47.75""N"," 64°37'48.29""W",9997,17512,0.570865692
+King Sound,Sound,Macrotidal,LSE," 16°50'23.69""S","123°30'44.27""E",38397,56835,0.675587226
+Montijo Bay,Bay,Macrotidal,Tidal Inlet,"  7°40'7.18""N"," 81° 8'1.33""W",12943,15653,0.826870249
+Cambridge Gulf,Gulf,Macrotidal,Inlet," 14°52'3.49""S","128°14'39.82""E",18212,21209,0.858692065
+Spencer Gulf,Gulf,Macrotidal,," 34°19'7.37""S","137° 1'6.37""E",80096,85736,0.934216665
+Saint Vincent Gulf,Gulf,Macrotidal,," 35° 2'34.08""S","138° 4'23.26""E",58870,56996,1.0328795
+Gulf of Guayaquil,Gulf,Macrotidal,Tidal Inlet,"  3° 1'0.98""S"," 80° 1'17.33""W",31957,26263,1.216806915
+Gulf of Nicoya,Gulf,Macrotidal,,"  9°53'15.63""N"," 84°49'23.76""W",30602,18906,1.618639585
+Shoalwater Bay,Bay,Macrotidal,Estuary," 22°26'19.99""S","150°26'50.31""E",27876,14032,1.986602052
+Broad Sound,Sound,Macrotidal,Estuary," 22°21'52.17""S","149°51'40.40""E",28104,10771,2.609228484
+Arnhem Bay,Bay,Open,LSE," 12°16'43.63""S","136° 9'17.47""E",14181,45471,0.311869103
+Gulf of Fonseca,Gulf,Open,Tidal Inlet," 13° 8'41.84""N"," 87°38'59.19""W",32011,71729,0.446276959
+Blue Mud Bay,Bay,Open,LSE," 13°25'10.48""S","136° 5'36.98""E",45938,89765,0.51175848
+Doubtless Bay,Bay,Open,," 34°55'29.45""S","173°26'47.79""E",10825,17717,0.610995089
+East Boyd Bay,Bay,Open,RIA," 37° 4'57.69""S","149°55'50.26""E",5092,6679,0.762389579
+Frith of Thames,Frith,Open,Open," 37° 7'5.52""S","175°25'3.07""E",16516,21660,0.762511542
+Hawke Bay,Bay,Open,," 39°18'40.27""S","177°19'31.28""E",78312,97958,0.79944466
+Wainui Bay,Bay,Open,," 35° 0'27.55""S","173°52'6.52""E",3549,4387,0.80898108
+Monterey Bay,Bay,Open,," 36°45'0.13""N","121°54'12.26""W",35177,42076,0.836034794
+Tewaenae Bay,Bay,Open,," 46°13'50.90""S","167°32'0.15""E",26762,30936,0.865076287
+All Saints Bay,Bay,Open,Barrier Estuary," 31°47'4.40""N","116°40'34.29""W",14080,15919,0.884477668
+Gulf of Arauco,Gulf,Open,," 37° 7'57.20""S"," 73°19'5.51""W",38122,40801,0.934339845
+Bay of Ilha Grande,Bay,Open,," 23° 9'28.24""S"," 44°33'58.51""W",22762,23850,0.954381551
+Takou Bay,Bay,Open,," 35° 5'29.04""S","173°57'18.45""E",8375,8632,0.970227062
+Santa Monica Bay,Bay,Open,," 33°55'18.82""N","118°34'22.60""W",43216,43232,0.999629904
+Princess Charlotte Bay,Bay,Open,," 14°19'6.29""S","143°57'36.30""E",50283,48317,1.040689612
+Moreno Bay,Bay,Open,," 23°33'41.58""S"," 70°28'13.36""W",19614,18783,1.044242134
+Banderas Bay,Bay,Open,," 20°36'54.40""N","105°24'54.79""W",29266,27785,1.053302141
+Sechura Bay,Bay,Open,,"  5°37'31.22""S"," 80°59'58.82""W",51831,48446,1.06987161
+Pegasus Bay,Bay,Open,," 43°20'34.84""S","172°52'4.22""E",65163,57563,1.132029255
+Disaster Bay,Bay,Open,," 37°16'32.25""S","149°58'51.19""E",7072,6226,1.135881786
+Cleveland Bay,Bay,Open,," 19°13'33.09""S","146°53'0.59""E",24983,21382,1.168412684
+Estero Bay,Bay,Open,," 35°22'42.30""N","120°53'12.26""W",18248,15595,1.170118628
+Mejillones Bay,Bay,Open,," 23° 2'48.85""S"," 70°26'10.00""W",16346,13495,1.211263431
+San Pedro Bay,Bay,Open,," 33°42'27.58""N","118° 8'52.69""W",25742,18590,1.384722969
+Halifax Bay,Bay,Open,," 18°56'42.98""S","146°28'43.37""E",75243,52692,1.427977682
+Bay of Amatique,Bay,Open,Barrier Estuary," 15°58'12.47""N"," 88°42'21.06""W",23507,45100,0.521219512
+Lake Macquarie,Lake,Ria,Bar Est. ," 33° 5'36.58""S","151°36'14.48""E",444,14146,0.031386965
+Sydney Harbour,Harbour,Ria,," 33°49'41.27""S","151°16'47.58""E",1472,9023,0.163138646
+Broken Bay,Bay,Ria,Bar Est.," 33°33'59.76""S","151°19'13.97""E",3760,14516,0.259024525
+Mangonui Inlet,Inlet,Ria,LSE," 35°10'5.66""S","174° 1'29.49""E",1019,3493,0.29172631
+Kerikeri Inlet,Inlet,Ria,LSE," 35°12'5.92""S","174° 0'33.62""E",1261,2605,0.484069098
+Buzzards Bay,Bay,Ria,?," 41°37'13.15""N"," 70°45'20.37""W",12840,14978,0.857257311
+Bay of Paranaguá,Bay,Tidal Inlet,," 25°27'42.55""S"," 48°24'34.27""W",4991,24699,0.202072958
+Parengarenga Harbour,Harbour,Tidal Inlet,Bar Est.," 34°31'18.43""S","172°56'29.45""E",858,3159,0.271604938
+Bay of Malaga,Bay,Tidal Inlet,Ria,"  4° 1'32.60""N"," 77°16'39.67""W",2788,8050,0.346335404
+Gulf of Tumaco,Gulf,Tidal Inlet,,"  1°52'31.69""N"," 78°38'18.96""W",19813,24194,0.818922047
+Batemans Bay,Bay,Tidal Inlet,RIA," 35°44'19.21""S","150°14'10.88""E",6166,6325,0.97486166
+Whangaroa Harbour,Harbour,,," 35° 1'47.43""S","173°44'59.17""E",290,3794,0.076436479
+Chiriqui Lagoon,Lagoon,,,"  9° 3'24.23""N"," 82° 4'24.18""W",17635,58136,0.303340443
+Merrimbula Bay,Bay,,,,,4392,5826,0.753861998
+Shark Bay,Bay,,," 25°58'21.62""S","114° 0'15.02""E",39962,47989,0.832732501
+Golden Bay ,Bay,,," 40°42'57.26""S","172°50'6.64""E",34481,34214,1.007803823
+Exmouth Gulf,Gulf,,," 22° 9'47.69""S","114°17'12.92""E",47413,38438,1.233492898
+Tasman Bay,Bay,,," 41° 9'0.95""S","173°10'28.98""E",35691,27603,1.293011629
+Bay of Marajó,Bay,,,"  0°39'57.20""S"," 48°19'12.53""W",59760,29500,2.025762712
